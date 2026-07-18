@@ -286,49 +286,49 @@ Close Incident
 
 ## 📊 Wazuh Dashboard
 
-![Wazuh Dashboard](wazuh-dashboard.png)
+![Wazuh Dashboard](wazuh-dashboard.png.png)
 
 ---
 
 ## 🔐 Connected Agents
 
-![Connected Agents](agents-connected.png)
+![Connected Agents](agents-connected.png.png)
 
 ---
 
 ## 🛡️ Suricata Running
 
-![Suricata Running](suricata-running.png)
+![Suricata Running](suricata-running.png.png)
 
 ---
 
 ## 🚨 Hydra SSH Attack
 
-![Hydra Attack](hydra-attack.png)
+![Hydra Attack](hydra-attack.png.png)
 
 ---
 
 ## 🌐 Nmap Scan
 
-![Nmap Scan](nmap-scan.png)
+![Nmap Scan](nmap-scan.png.png)
 
 ---
 
 ## 🎯 Threat Hunting
 
-![Threat Hunting](threat-hunting.png)
+![Threat Hunting](threat-hunting.png.png)
 
 ---
 
 ## 🚨 SSH Alert
 
-![SSH Alert](ssh-alert.png)
+![SSH Alert](ssh-alert.png.png)
 
 ---
 
 ## 📋 Alert Details
 
-![Alert Details](alert-details.png)
+![Alert Details](alert-details.png.png)
 ```
 ```
 ``` ```
