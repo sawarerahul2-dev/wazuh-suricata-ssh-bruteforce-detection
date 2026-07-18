@@ -282,8 +282,9 @@ Add screenshots inside the **screenshots/** folder.
 
 ```
 
-🖥️ Lab Architecture
-![image alt] (https://github.com/sawarerahul2-dev/wazuh-suricata-ssh-bruteforce-detection/blob/424bf065f6beaef43b3a95331f96b19c31ed8e62/lab-architecture.png.png)
+### 🖥️ Lab Architecture
+![Lab Architecture](![Uploading image.png…]()
+)
 
 ---
 
