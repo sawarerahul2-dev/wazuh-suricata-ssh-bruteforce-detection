@@ -283,8 +283,7 @@ Add screenshots inside the **screenshots/** folder.
 ```
 
 ### 🖥️ Lab Architecture
-![Lab Architecture](![Uploading image.png…]()
-)
+![Lab Architecture] ![Uploading image.png…]
 
 ---
 
