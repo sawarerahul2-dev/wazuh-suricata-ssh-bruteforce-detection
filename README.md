@@ -369,7 +369,7 @@ Close Incident
 SOC Analyst | Cybersecurity Enthusiast
 
 GitHub:
-https://github.com/sawarerahul2-dev/wazuh-suricata-ssh-bruteforce-detection/blob/0a7a2b92356e7f7ca3c96be4a32566c3d20bdeee/README.md
+(https://github.com/sawarerahul2-dev/wazuh-suricata-ssh-bruteforce-detection/blob/77ab31e363879fe84df899e28de6a0f14a55a9cc/README.md)
 
 ---
 
