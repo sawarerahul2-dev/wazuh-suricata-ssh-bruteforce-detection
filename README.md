@@ -280,7 +280,7 @@ Close Incident
 
 ## 🏗️ Lab Architecture
 
-![Lab Architecture](lab-architecture.png)
+![Lab Architecture](lab-architecture.png.png)
 
 ---
 
