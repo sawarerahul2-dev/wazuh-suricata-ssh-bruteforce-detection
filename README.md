@@ -293,51 +293,7 @@ screenshots/
 ├── ssh-alert.png
 ├── alert-details.png
 ```
-
-Example
-
-```markdown
-## Wazuh Dashboard
-
-![Dashboard](screenshots/wazuh-dashboard.png)
-
-## Hydra Attack
-
-![Hydra](screenshots/hydra-attack.png)
-
-## SSH Alert
-
-![SSH Alert](screenshots/ssh-alert.png)
-```
-
----
-
-# 📁 Repository Structure
-
-```
-wazuh-suricata-ssh-bruteforce-detection
-│
-├── README.md
-├── LICENSE
-├── screenshots
-│   ├── wazuh-dashboard.png
-│   ├── hydra-attack.png
-│   ├── ssh-alert.png
-│   ├── threat-hunting.png
-│   └── nmap-scan.png
-│
-├── reports
-│   └── Incident_Report.pdf
-│
-├── logs
-│   ├── hydra-output.txt
-│   └── nmap-output.txt
-│
-└── architecture
-    └── lab-architecture.png
-```
-
----
+``` ```
 
 # 🎯 Skills Demonstrated
 
