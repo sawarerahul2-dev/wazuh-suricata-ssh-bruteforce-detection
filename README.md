@@ -281,17 +281,50 @@ Close Incident
 Add screenshots inside the **screenshots/** folder.
 
 ```
-screenshots/
-│
-├── lab-architecture.png
-├── wazuh-dashboard.png
-├── agents-connected.png
-├── suricata-running.png
-├── hydra-attack.png
-├── nmap-scan.png
-├── threat-hunting.png
-├── ssh-alert.png
-├── alert-details.png
+## 📷 Screenshots
+
+### 🖥️ Lab Architecture
+![Lab Architecture]([lab-architecture.png](https://github.com/sawarerahul2-dev/wazuh-suricata-ssh-bruteforce-detection/blob/424bf065f6beaef43b3a95331f96b19c31ed8e62/lab-architecture.png.png))
+
+---
+
+### 📊 Wazuh Dashboard
+![Wazuh Dashboard](wazuh-dashboard.png)
+
+---
+
+### 🖥️ Wazuh Agents Connected
+![Agents Connected](agents-connected.png)
+
+---
+
+### 🛡️ Suricata Running
+![Suricata Running](suricata-running.png)
+
+---
+
+### 💥 Hydra SSH Brute Force Attack
+![Hydra Attack](hydra-attack.png)
+
+---
+
+### 🌐 Nmap Scan
+![Nmap Scan](nmap-scan.png)
+
+---
+
+### 🔍 Threat Hunting
+![Threat Hunting](threat-hunting.png)
+
+---
+
+### 🚨 SSH Alert Detection
+![SSH Alert](ssh-alert.png)
+
+---
+
+### 📑 Alert Details
+![Alert Details](alert-details.png)
 ```
 ``` ```
 
